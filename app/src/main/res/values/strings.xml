@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Marvel Studio</string>
+    <string name="no_data">“A HYDRA roubou esta página da base de dados da S.H.I.E.L.D.! , Ou Sua Internet Caiu!”</string>
+    <string name="dashboard_toolbar_title">Marvel Heroes</string>
+    <string name="dashboard_toolbar_title_favorites">Minha Lista de Favoritos</string>
+    <string name="dummy_description">Marvel Entertainment, LLC, uma subsidiária integral da The Walt Disney Company, é uma das empresas de entretenimento baseadas em personagens mais proeminentes do mundo, construída em uma biblioteca comprovada de mais de 8.000 personagens apresentados em uma variedade de mídia ao longo de 75 anos . A Marvel utiliza suas franquias de personagens em entretenimento, licenciamento e publicação. Para obter mais informações, visite marvel.com. © 2020 MARVEL</string>
+    <string name="series_toolbar_title">Series</string>
+    <string name="series">series</string>
+    <string name="favoritos">Favoritos</string>
+</resources>
